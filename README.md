@@ -12,9 +12,9 @@ List
 The results of the poll are printed out in the console through SimulationDriver.java, which utilizes the classes Student.java, Question.java, and VotingService.java.
 
 **Note**<br>
-          -Code and run tests were done on Visual Studio Code.
+          -Code and run tests were done on Visual Studio Code. Additional run tests done on command prompt.
 
 
 **Usage**<br>
-          -Running
-                    Top right button to run SimulationDriver.java file
+          -VSCode: Top right button to compile run SimulationDriver.java file in Visual Studio Code.<br>
+          -Command line: "javac Question.java SimulationDriver.java Student.java VotingService.java" to compile and "java SimulationDriver" to run the code.
